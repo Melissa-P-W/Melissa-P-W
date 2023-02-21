@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm MELISSA WILLIAMS</h1>
+![1](https://user-images.githubusercontent.com/72885397/220262582-674a2c3f-4b98-475c-8789-cdd386438aef.png)
+
+<h1 align="center">Hi 👋🏽, I'm MELISSA WILLIAMS</h1>
 <h3 align="center">A software developer proficient in creating front and back end websites.</h3>
 
 - 🌱 I’m currently learning **Java**
